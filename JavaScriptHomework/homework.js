@@ -24,8 +24,8 @@ var sayHello = function(){
 
 // 4. Create an object
 var mary = {
-  name: "Mary Rose",
-  codeNinja: true,
-  country: "UK"
+   name: "Mary Rose",
+   codeNinja: true,
+   country: "UK"
 }
 
